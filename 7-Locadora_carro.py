@@ -4,7 +4,7 @@ print("R$ 90,00 por dia alugado!")
 print("R$ 0,20 por km rodado!")
 
 dias=int(input("Informe quantos dias o carro ficou alugado: "))
-km=int(input("Informne quantos quilometros rodados: "))
+km=int(input("Informe quantos quilometros rodados: "))
 
 total=(dias*90)+(km*0.20)
 print("================")
