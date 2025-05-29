@@ -28,7 +28,7 @@ while opcao !=6:
         print("Fim da compra.")
     else:
         print("opção inválida")
-print ("====REECIBO=====")
+print ("====RECIBO=====")
 if frances>0:
     print (f"Pão francês - quantidade: {frances} Total: R$ {valorFrances: }")
 if integral>0:
